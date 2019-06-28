@@ -1,2 +1,2 @@
 # mergeConflict2
-hello from person one
+hello from person two
